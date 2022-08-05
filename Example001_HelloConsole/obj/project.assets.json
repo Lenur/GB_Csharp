@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GB\\Examles\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+      "projectUniqueName": "E:\\GB\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
       "projectName": "Example001_HelloConsole",
-      "projectPath": "E:\\GB\\Examles\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+      "projectPath": "E:\\GB\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
       "packagesPath": "C:\\Users\\Crimea\\.nuget\\packages\\",
-      "outputPath": "E:\\GB\\Examles\\Example001_HelloConsole\\obj\\",
+      "outputPath": "E:\\GB\\Examples\\Example001_HelloConsole\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Crimea\\AppData\\Roaming\\NuGet\\NuGet.Config"
